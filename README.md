@@ -1,2 +1,2 @@
 # treehouseyatzy
-TeamTreehouse 'Yatzy' project, WIP
+TeamTreehouse 'Yatzy' project
